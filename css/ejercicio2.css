@@ -1,0 +1,6 @@
+.contenedor {
+    display: flex;
+    /* Agrega más estilos según necesites */
+
+    justify-content: center; /* Distribuye las cajas con espacio alrededor */
+}
