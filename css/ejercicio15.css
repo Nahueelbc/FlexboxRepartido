@@ -1,0 +1,10 @@
+
+.layout {
+	display: flex;
+	width: 100%;
+	height: 500px;
+}
+.izquierda { flex: 0 0 200px; }
+.derecha { flex: 0 0 150px; }
+.centro { flex: 1; }
+

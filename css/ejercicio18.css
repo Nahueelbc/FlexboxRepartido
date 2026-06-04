@@ -1,0 +1,14 @@
+
+.lista-tarjetas {
+	display: flex;
+	gap: 20px;
+	align-items: stretch; 
+}
+.tarjeta {
+	display: flex;
+	flex-direction: column;
+	padding: 12px;
+	box-sizing: border-box;
+}
+.tarjeta button { margin-top: auto; }
+

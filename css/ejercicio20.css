@@ -1,0 +1,14 @@
+
+.chat {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+.msg {
+	padding: 8px 12px;
+	border-radius: 10px;
+	max-width: 70%;
+}
+.ajeno { align-self: flex-start; background: #eee; }
+.propio { align-self: flex-end; background: #cfe; }
+

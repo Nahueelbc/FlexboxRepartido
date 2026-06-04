@@ -1,0 +1,10 @@
+.contenedor {
+  display: flex;
+  width: 600px;
+}
+.caja.a, .caja.c {
+  flex-grow: 1;
+}
+.caja.b {
+  flex-grow: 2;
+}

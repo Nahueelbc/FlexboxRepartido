@@ -1,0 +1,9 @@
+.contenedor {
+  display: flex;
+}
+.primero {
+  order: 1; 
+}
+.tercero {
+  order: -1;
+}
